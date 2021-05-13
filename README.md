@@ -1,0 +1,2 @@
+# flutter_txcloud_signature
+腾讯云的云点播服务中计算签名和网络请求
